@@ -6,3 +6,7 @@
 
 ## Modulo-02
     - Listas
+
+## Modulo-02
+    - Tuples
+    - Dictionary
