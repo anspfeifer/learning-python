@@ -1,4 +1,8 @@
 # Learnning Python
 
 ## Modulo-01
-    - Introducao + Variaveis
+    - Introducao
+    - Variaveis
+
+## Modulo-02
+    - Listas
