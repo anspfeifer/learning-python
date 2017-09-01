@@ -1,5 +1,6 @@
 lista_tipos_de_convites = ['Vip', 'Normal', 'Meia', 'Cortesia']
 lista_tipos_de_convites.append('Penetra')
+
 print lista_tipos_de_convites
 print lista_tipos_de_convites[1]
 
