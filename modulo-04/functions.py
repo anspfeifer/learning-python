@@ -1,5 +1,4 @@
 convite = 'Meu Nome Completo'
-
 parte1 = convite[0:3]
 parte2 = convite[4:8]
 parte3 = convite[9:17]

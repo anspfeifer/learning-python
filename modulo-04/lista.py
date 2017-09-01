@@ -1,4 +1,5 @@
 nomes = ['Zero Nome', 'Primeiro Nome', 'Segundo Nome', 'Terceiro Nome', 'Quarto Nome']
+
 print 'Todos os nomes'
 print nomes
 
