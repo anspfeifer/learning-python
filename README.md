@@ -10,3 +10,6 @@
 ## Modulo-03
     - Tuples
     - Dictionary
+
+## Modulo-04
+    - Functions
