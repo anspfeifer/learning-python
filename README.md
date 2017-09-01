@@ -1,15 +1,13 @@
 # Learnning Python
 
-## Modulo-01
+## Strings
     - Introducao
     - Variaveis
 
-## Modulo-02
-    - Listas
+## List
 
-## Modulo-03
+## Dictionary
     - Tuples
     - Dictionary
 
-## Modulo-04
-    - Functions
+## Functions
