@@ -7,7 +7,5 @@
 ## List
 
 ## Dictionary
-    - Tuples
-    - Dictionary
 
 ## Functions
