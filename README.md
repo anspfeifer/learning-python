@@ -1,8 +1,8 @@
 # Learnning Python
 
-## Modulo-01
+## String
     - Introducao
     - Variaveis
 
-## Modulo-02
+## List
     - Listas
