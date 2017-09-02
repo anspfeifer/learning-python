@@ -9,3 +9,4 @@
 ## Dictionary
 
 ## Functions
+    - Cadastro
